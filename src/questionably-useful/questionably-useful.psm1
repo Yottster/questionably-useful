@@ -3,7 +3,7 @@
 #     return
 # }
 
-. $PSScriptRoot\utils.ps1
+.$PSScriptRoot\utils.ps1
 
 $moduleExports = @{
     Function = @(
