@@ -8,7 +8,8 @@
 $moduleExports = @{
     Function = @(
         'Search-Files',
-        'Open-SearchResult'
+        'Open-SearchResult',
+        'Find-KillLocked'
     )
 }
 
